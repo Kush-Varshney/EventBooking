@@ -50,7 +50,7 @@ A comprehensive, production-ready RESTful API for an Event Booking System built 
 
 ## Project Structure
 
-\`\`\`
+```
 server/
 ├── config/
 │   ├── database.js              # Database configuration
@@ -82,9 +82,8 @@ server/
 ├── .env                        # Environment variables
 ├── .sequelizerc               # Sequelize configuration
 ├── app.js                     # Express application
-├── package.json               # Dependencies and scripts
-README.md                      # This file
-\`\`\`
+└── package.json               # Dependencies and scripts
+```
 
 ## Professional Naming Conventions
 
