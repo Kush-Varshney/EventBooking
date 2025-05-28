@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Event Booking System API
 
 A comprehensive, production-ready RESTful API for an Event Booking System built with Node.js, Express.js, Sequelize ORM, and PostgreSQL.
@@ -51,7 +50,7 @@ A comprehensive, production-ready RESTful API for an Event Booking System built 
 
 ## Project Structure
 
-\`\`\`
+```
 server/
 ├── config/
 │   ├── database.js              # Database configuration
@@ -83,9 +82,8 @@ server/
 ├── .env                        # Environment variables
 ├── .sequelizerc               # Sequelize configuration
 ├── app.js                     # Express application
-├── package.json               # Dependencies and scripts
-README.md                      # This file
-\`\`\`
+└── package.json               # Dependencies and scripts
+```
 
 ## Professional Naming Conventions
 
@@ -312,6 +310,3 @@ This project is licensed under the MIT License.
 ## Author
 
 Kush Varshney 
-=======
-# EventBooking
->>>>>>> e89d9b610e2787c13212001342317d58de042927
